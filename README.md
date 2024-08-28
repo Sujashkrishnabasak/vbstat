@@ -1,4 +1,4 @@
-# VBSTAT
+# VBSTAT.
 Handouts and Notes BSc Statistics VisvaBharati.
 
 ## Run Locally
